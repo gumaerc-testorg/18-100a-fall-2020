@@ -1,10 +1,9 @@
 ---
 body: ''
 content_type: resource
-description: ''
-draft: ''
-file: /courses/18-100a-real-analysis-fall-2020/mit18_100af20_lec24.tex
-file_size: 3859
+draft: false
+file: /courses/18-100a-real-analysis-fall-2020/mit18_100a_f20_compile.tex
+file_size: 8806
 file_type: text/x-tex
 image_metadata:
   caption: ''
@@ -13,9 +12,10 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT18_100af20_lec24.tex
-uid: eacd5092-3231-48e5-9ae5-a745095ee9b0
+title: mit18_100a_f20_compile.tex
+uid: c5cdecaf-90ef-4c14-996f-a83bd7eb5e28
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''

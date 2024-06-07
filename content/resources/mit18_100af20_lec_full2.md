@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/18-100a-real-analysis-fall-2020/mit18_100af20_lec_full2.pdf
+file_size: 819033
 file_type: application/pdf
 image_metadata:
   caption: ''
