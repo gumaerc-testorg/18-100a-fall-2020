@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/18-100a-real-analysis-fall-2020/18100a-lecture-22-multicam_360p_16_9.mp4
+file_size: 120454383
 file_type: video/mp4
 image_metadata:
   caption: ''
