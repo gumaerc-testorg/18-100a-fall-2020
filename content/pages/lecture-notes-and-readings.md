@@ -20,7 +20,7 @@ The lecture notes were prepared by Paige Dote under the guidance of Dr. Rodrigue
 Dr. Rodriguez’s Fall 2020 lecture notes in one file:
 
 - {{% resource_link "170ded3d-f93f-428f-a4cc-5950361405f4" "Real Analysis (PDF)" %}}
-- {{% resource_link "90640383-e665-4526-804f-75e6ae46adfa" "Real Analysis (ZIP)" %}} LaTeX source files
+- {{% resource_link "99377ba3-ad0a-44ec-b712-827d0be8f039" "Real Analysis (ZIP)" %}} LaTeX source files
 
 ## Week 1
 
