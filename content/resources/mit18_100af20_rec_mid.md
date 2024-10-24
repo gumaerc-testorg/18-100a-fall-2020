@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/18-100a-real-analysis-fall-2020/mit18_100af20_rec_mid.pdf
+file: /ol-ocw-studio-app/courses/18-100a-real-analysis-fall-2020/mit18_100af20_rec_mid.pdf
 file_size: 316969
 file_type: application/pdf
 image_metadata:
