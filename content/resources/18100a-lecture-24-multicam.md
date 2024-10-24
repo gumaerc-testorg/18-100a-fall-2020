@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/18-100a-real-analysis-fall-2020/18100a-lecture-24-multicam_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/18-100a-real-analysis-fall-2020/18100a-lecture-24-multicam_360p_16_9.mp4
 file_size: 124332260
 file_type: video/mp4
 image_metadata:
