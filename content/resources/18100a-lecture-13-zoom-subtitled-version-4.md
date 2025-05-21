@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-100a-real-analysis-fall-2020/18100a-lecture-13-zoom-subtitled-version-4_360p_16_9.mp4
+file: courses/18100a-real-analysis-fall-2020/18100a-lecture-13-zoom-subtitled-version-4_360p_16_9.mp4
 file_size: 85612747
 file_type: video/mp4
 image_metadata:
