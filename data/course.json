@@ -27,6 +27,8 @@
     "website": "18100a-real-analysis-fall-2020"
   },
   "course_title": "Real Analysis",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This course covers the fundamentals of mathematical analysis: convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, and the interchange of limit operations. It shows the utility of abstract concepts\u00a0through a study of real numbers, and teaches an understanding and construction of proofs.",
   "department_numbers": [
     "18"
@@ -41,8 +43,10 @@
     "Lecture Notes",
     "Lecture Videos",
     "Exams",
-    "Problem Sets"
+    "Problem Sets",
+    "Editable Files"
   ],
   "site_uid": "b9de9b15-2e9c-4deb-8fa9-5dd1963ebfaf",
-  "site_short_id": "18-100a-fall-2020"
+  "site_short_id": "18-100a-fall-2020",
+  "site_url_path": "courses/18-100a-real-analysis-fall-2020"
 }
